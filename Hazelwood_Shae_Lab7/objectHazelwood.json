@@ -1,0 +1,18 @@
+var jsonPeople = 
+{
+	"person" :
+	[
+		{
+		"firstName": "Shae", 
+		"lastName": "Hazelwood", 
+		"age": 18,
+		"birthdayDate": "April 3, 1995"
+		},
+		{
+		"firstName": "Anthony", 
+		"lastName": "Mcdonoald", 
+		"age": 19,
+		"birthdayDate": "August 29, 1994" 
+		}
+	]
+};
